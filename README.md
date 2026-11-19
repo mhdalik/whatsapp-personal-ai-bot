@@ -123,3 +123,9 @@ php artisan schedule:work
 
 * **Web Server DocumentRoot:** Ensure your web server points directly to the `public/` directory so that `.env` and `database.sqlite` are never exposed to the web.
 * **Debug Mode:** Always ensure `APP_DEBUG=false` in production environments.
+
+---
+
+## Screenshot
+
+![Chat Screenshot](chat_screenshot.jpeg)
